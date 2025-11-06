@@ -1,21 +1,22 @@
-var a = 7;
-let b = 'добрий день';
-const c = 4;
+var a = 9;
+let b = 'Добрий день';
+const c = 5;
 
 console.log(typeof a);
 console.log(typeof b);
 console.log(typeof c);
 
 let student = {
-    name: 'Yelyzaveta',
+    name: 'Dmytro',
     age: 18,
     status: true
 }
 
-student.university = "КРФКДНПДУКАІ";
+student.university = "КРИВОРІЗЬКИЙ ФАХОВИЙ КОЛЕДЖ ДЕРЖАВНОГО НЕКОМЕРЦІЙНОГО ПІДПРИЄМСТВА «ДЕРЖАВНИЙ УНІВЕРСИТЕТ «КИЇВСЬКИЙ АВІАЦІЙНИЙ ІНСТИТУТ»";
 console.log(student);
 
 b = 6548;
 console.log(typeof b);
+
 
 c = 52;
